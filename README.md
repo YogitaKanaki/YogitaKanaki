@@ -1,16 +1,43 @@
-## Hi there 👋
+# Hi 👋 I'm Yogita
 
-<!--
-**YogitaKanaki/YogitaKanaki** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎓 MCA Student | 💻 Java Backend Developer  
+🌱 GSoC Aspirant | Open Source Contributor  
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 👩‍💻 About Me
+- MCA 2nd year student passionate about backend development
+- Strong interest in **Java, Spring, REST APIs**
+- Currently exploring **open-source contributions for GSoC**
+- Consistent learner & clean-code believer
+
+---
+
+## 🛠️ Tech Stack
+- **Languages:** Java, Python
+- **Backend:** Spring Boot, REST APIs
+- **Database:** MySQL
+- **Tools:** Git, GitHub, Postman
+- **Concepts:** OOPs, Data Structures, DBMS
+
+---
+
+## 🌱 Open Source & GSoC
+- Exploring GSoC organizations (Java-based)
+- Contributing to open-source projects
+- Learning code reviews & collaborative development
+
+---
+
+## 📌 Projects
+- **Rental Item Sharing Platform** (Java, Springboot, React.js)
+- **Quiz Application** (Python, Django, SQL)
+- **Job Portal** (MERN Stack)
+
+---
+
+## 📫 Connect With Me
+- 💼 LinkedIn: www.linkedin.com/in/yogita-kanaki-6909a923a
+- 📧 Email: yogitakanaki20@gmail.com
+
+⭐ *Always open to learning and collaboration*
